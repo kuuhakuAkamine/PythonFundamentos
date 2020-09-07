@@ -1,5 +1,5 @@
 
-## CONTROLE DE ESTUDOS
+## CONTROLE DE ESTUDOS  :computer: :surfer:
 
 #### CAPÍTULO 01
 
