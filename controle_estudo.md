@@ -1,7 +1,7 @@
 
 ## CONTROLE DE ESTUDOS  :computer: :surfer:
 
-#### CAPÍTULO 01
+#### CAPÍTULO 01 - Introdução
 
 
 **Sérgio** | **Bruno**
@@ -9,7 +9,7 @@
 completo :+1: | completo :+1:
 
 
-#### CAPÍTULO 02
+#### CAPÍTULO 02 - variáveis, tipos e estruturas de dados
 
 
 **título** |**Sérgio** |**Bruno**|
