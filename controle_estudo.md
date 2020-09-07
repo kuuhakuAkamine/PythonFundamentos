@@ -1,7 +1,7 @@
 
 ## CONTROLE DE ESTUDOS
 
-### CAPÍTULO 01
+#### CAPÍTULO 01
 
 
 **Sérgio** | **Bruno**
@@ -9,7 +9,7 @@
 completo :+1: | completo :+1:
 
 
-### CAPÍTULO 02
+#### CAPÍTULO 02
 
 
 **Sérgio** | | **Bruno** | |
