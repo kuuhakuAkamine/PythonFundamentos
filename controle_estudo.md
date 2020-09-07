@@ -12,7 +12,7 @@ completo :+1: | completo :+1:
 #### CAPÍTULO 02
 
 
-**Sérgio** | | **Bruno** | |
+**título** |**Sérgio** |**Bruno**|
 ------------ |------------ |------------ |
 1-introducao  | [:+1:] 07/09/2020 | [  ] - |
 2-Por Que Isso é importante? | [:+1:] 07/09/2020 | [  ] - |
