@@ -14,5 +14,6 @@ completo :+1: | completo :+1:
 
 **Sérgio** | | **Bruno** | |
 ------------ |------------ |------------ |------------ |
+[ x ] introducao :+1: | 07/09/2020 | [  ] -  |
+[ x ] Por Que Isso é importante? :+1: | 07/09/2020 | [  ]  -  |
 [ x ] introducao :+1: | 07/09/2020 | [  ] introducao| -  |
-
