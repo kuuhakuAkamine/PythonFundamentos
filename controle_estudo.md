@@ -16,4 +16,5 @@ completo :+1: | completo :+1:
 ------------ |------------ |------------ |------------ |
 [ x ] introducao :+1: | 07/09/2020 | [  ] -  |
 [ x ] Por Que Isso é importante? :+1: | 07/09/2020 | [  ]  -  |
-[ x ] introducao :+1: | 07/09/2020 | [  ] introducao| -  |
+[ x ] Python Fundamentos :+1: | 07/09/2020 | [  ] introducao| -  |
+[ x ] Números e Operações Matemáticas :+1: | 07/09/2020 | [  ] introducao| -  |
