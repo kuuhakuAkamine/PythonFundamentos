@@ -28,3 +28,9 @@ completo :+1: | completo :+1:
 12-Estruturas de Dados-Listas | [:+1:] 15/09/2020 | [  ] - |
 13-Jupyter Notebook-Estruturas de Dados-Listas-Parte1-2 | [:+1:] 15/09/2020 | [  ] - |
 14-Jupyter Notebook-Estruturas de Dados-Listas-Parte2-2 | [:+1:] 15/09/2020 | [  ] - |
+15-Estruturas de Dados-Dicionários | [:+1:] 17/09/2020 | [  ] - |
+16-Jupyter Notebook-Estruturas de Dados-Dicionários-Parte1-2 | [:+1:] 17/09/2020 | [  ] - |
+17-Jupyter Notebook-Estruturas de Dados-Dicionários-Parte2-2 | [:+1:] 17/09/2020 | [  ] - |
+18-Estruturas de Dados-Tuplas | [:+1:] 17/09/2020 | [  ] - |
+19-Jupyter Notebook-Estruturas de Dados-Tuplas | [:+1:] 17/09/2020 | [  ] - |
+20-Resumo-O que vimos Até Aqui | [:+1:] 17/09/2020 | [  ] - |
